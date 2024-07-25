@@ -1,7 +1,7 @@
 import requests
 
 # Replace with your actual API key
-API_KEY = 'cae9d998fa112ce1243b3bae2d29d897'
+API_KEY = 'YOUR_API_KEY'
 BASE_URL = 'https://api.openweathermap.org/data/2.5/weather'
 CITY = 'London'  # Replace with the city you want to check
 
