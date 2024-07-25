@@ -9,7 +9,7 @@ MODEL_PATH = 'weather_model.pkl'
 model = joblib.load(MODEL_PATH)
 
 # OpenWeatherMap API configuration
-API_KEY = 'cae9d998fa112ce1243b3bae2d29d897'  # Replace with your actual API key
+API_KEY = 'YOUR_API_KEY'  # Replace with your actual API key
 BASE_URL = 'https://api.openweathermap.org/data/2.5/weather'
 FORECAST_URL = 'https://api.openweathermap.org/data/2.5/forecast'
 
